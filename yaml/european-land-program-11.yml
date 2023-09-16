@@ -1,0 +1,105 @@
+---
+object: card
+id: da9112dd-ee4d-4554-87d4-3421fc6a9101
+oracle_id: b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6
+multiverse_ids: []
+tcgplayer_id: 21642
+cardmarket_id: 17620
+name: Forest
+lang: en
+released_at: '2000-02-05'
+uri: https://api.scryfall.com/cards/da9112dd-ee4d-4554-87d4-3421fc6a9101
+scryfall_uri: https://scryfall.com/card/pelp/11/forest?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/a/da9112dd-ee4d-4554-87d4-3421fc6a9101.jpg?1654083314
+  normal: https://cards.scryfall.io/normal/front/d/a/da9112dd-ee4d-4554-87d4-3421fc6a9101.jpg?1654083314
+  large: https://cards.scryfall.io/large/front/d/a/da9112dd-ee4d-4554-87d4-3421fc6a9101.jpg?1654083314
+  png: https://cards.scryfall.io/png/front/d/a/da9112dd-ee4d-4554-87d4-3421fc6a9101.png?1654083314
+  art_crop: https://cards.scryfall.io/art_crop/front/d/a/da9112dd-ee4d-4554-87d4-3421fc6a9101.jpg?1654083314
+  border_crop: https://cards.scryfall.io/border_crop/front/d/a/da9112dd-ee4d-4554-87d4-3421fc6a9101.jpg?1654083314
+mana_cost: ''
+cmc: 0.0
+type_line: Basic Land — Forest
+oracle_text: "({T}: Add {G}.)"
+colors: []
+color_identity:
+- G
+keywords: []
+produced_mana:
+- G
+legalities:
+  standard: legal
+  future: legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: legal
+  historicbrawl: legal
+  alchemy: legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: fe73e363-c74e-4211-a728-0f4d01f9cb29
+set: pelp
+set_name: European Land Program
+set_type: promo
+set_uri: https://api.scryfall.com/sets/fe73e363-c74e-4211-a728-0f4d01f9cb29
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apelp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pelp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/da9112dd-ee4d-4554-87d4-3421fc6a9101/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6&unique=prints
+collector_number: '11'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mike Ploog
+artist_ids:
+- 4a9465c4-1545-4ab6-91e7-60252b90bed4
+illustration_id: 8bf31d7d-f62b-4eab-bfb5-14a3f1eac9d6
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- event
+prices:
+  usd: '14.91'
+  usd_foil: 
+  usd_etched: 
+  eur: '8.50'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Forest&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Forest&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Forest
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/21642?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Forest&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Forest&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
